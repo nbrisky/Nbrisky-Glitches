@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+/*  Nick's CSS File
+*/
+div.col-1-2  { width:  49.67%;    }
+div.col-1-4  { width:  9%;    }
+div.col-3-4  { width:  81.02%;    }
+div.col-1-1  { width: 99.7%;    }
+
+body {
+   background-color: black;
+}
+
+#div1 {
+ background-color: #0d31d4;
+ text-align: center;
+ font-style: italic;
+ text-decoration: underline;
+ text-shadow: 2px 2px black;
+ font-size: 100px;
+ color: #f5c105;
+ border-style: solid;
+ border-size: 5px  
+}
+#div5 {
+ Height: 100px; 
+ background-color: #f5c105;
+ font-size: 70px;
+ font-style: italic;
+ text-decoration: underline;
+ text-shadow: 1px 2px black;
+ text-align: center;
+ color: #0d31d4;
+ border-style: solid;
+ border-size: 5px
+}
+#div6 {
+ Height: 1450px; 
+ background-color: #0d31d4;
+ font-size: 40px;
+ font-style: italic;
+ text-shadow: 1px 2px black;
+ text-align: center;
+ color: #f5c105;
+ border-style: solid;
+ border-size: 5px
+}
+ 
+
